@@ -1,0 +1,27 @@
+.navbar {
+    padding: 15px 15px 15px 15px;
+}
+
+body {
+    background-color: gray;
+}
+
+@media screen and (max-width: 400px) {
+    body {
+        background-color: whitesmoke;
+    }
+}
+
+#portfolioContent {
+    background-color: whitesmoke;
+    margin: 20px 20px 20px 20px;
+}
+
+hr {
+    border-top: 10px solid;
+    border-color: black;
+}
+
+.card {
+    margin: 15px;
+}
